@@ -2,5 +2,5 @@
 
 Hello! \
 This is the code base for my resume website.\
-I am written this completely on reaact.js.
+I am writing this completely on react.js.
 
