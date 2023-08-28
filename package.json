@@ -2,7 +2,7 @@
   "name": "laks08.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://laks08.github.io/laks08.git.io",
+  "homepage": "http://laks08.github.io/laks08.github.io",
   "dependencies": {
     "@chakra-ui/react": "^2.8.0",
     "@emotion/react": "^11.11.1",
